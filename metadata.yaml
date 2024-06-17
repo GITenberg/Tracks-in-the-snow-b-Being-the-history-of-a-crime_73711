@@ -1,5 +1,8 @@
 _repo: Tracks-in-the-snow-b-Being-the-history-of-a-crime_73711
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73711-h/images/cover.jpg
 creator:
   author:
     agent_name: Charnwood, Godfrey Rathbone Benson, Baron
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7982
     wikipedia: https://en.wikipedia.org/wiki/Godfrey_Benson,_1st_Baron_Charnwood
 description: 'Wikipedia: https://en.wikipedia.org/wiki/Tracks_in_the_Snow_(novel)'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73711#Tracks-in-the-snow-b-Being-the-history-of-a-crime
 gutenberg_issued: '2024-05-27'
 gutenberg_type: Text
 identifiers:
